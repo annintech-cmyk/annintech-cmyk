@@ -20,7 +20,7 @@
 
 ## 👩‍💻 About Me
 
-- 📱 **Software Engineer** building production-grade mobile apps at **InTech**
+- 📱 **Software Engineer** by profession, building production-grade mobile apps
 - 🧩 Specializing in **Kotlin, Jetpack Compose, Kotlin Multiplatform**, with native iOS (**Swift/SwiftUI**) and **React Native**
 - 🏛️ Passionate about **Clean Architecture, MVVM/MVI, SOLID, TDD** and secure-by-design apps
 - 📊 Growing as a **Data Engineer** — ETL/ELT pipelines with **Python, SQL, PySpark, Databricks, Delta Lake & AWS S3**
