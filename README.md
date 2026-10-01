@@ -1,12 +1,12 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3DDC84,50:7F52FF,100:FF6F00&height=200&section=header&text=Hi%2C%20I'm%20Anna%20Felix%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Android%20Engineer%20%E2%80%A2%20Data%20Engineer&descAlignY=58&descSize=18" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3DDC84,50:7F52FF,100:FF6F00&height=200&section=header&text=Hi%2C%20I'm%20Anna%20Felix%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Data%20Engineer&descAlignY=58&descSize=18" alt="banner" />
 </p>
 
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F52FF&center=true&vCenter=true&width=650&lines=Senior+Android+Engineer+%7C+9%2B+years;Kotlin+%E2%80%A2+Jetpack+Compose+%E2%80%A2+KMP;Data+Engineer+%7C+PySpark+%E2%80%A2+Databricks+%E2%80%A2+AWS;Clean+Architecture+%E2%80%A2+TDD+%E2%80%A2+CI%2FCD;Based+in+Luxembourg+%F0%9F%87%B1%F0%9F%87%BA" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F52FF&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+9%2B+years;Kotlin+%E2%80%A2+Jetpack+Compose+%E2%80%A2+KMP;Data+Engineer+%7C+PySpark+%E2%80%A2+Databricks+%E2%80%A2+AWS;Clean+Architecture+%E2%80%A2+TDD+%E2%80%A2+CI%2FCD" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 
 ## 👩‍💻 About Me
 
-- 📱 **Senior Android Engineer** building production-grade mobile apps at **InTech, Luxembourg**
+- 📱 **Software Engineer** building production-grade mobile apps at **InTech**
 - 🧩 Specializing in **Kotlin, Jetpack Compose, Kotlin Multiplatform**, with native iOS (**Swift/SwiftUI**) and **React Native**
 - 🏛️ Passionate about **Clean Architecture, MVVM/MVI, SOLID, TDD** and secure-by-design apps
 - 📊 Growing as a **Data Engineer** — ETL/ELT pipelines with **Python, SQL, PySpark, Databricks, Delta Lake & AWS S3**
@@ -28,7 +28,6 @@
 - 🏅 **Associate Android Developer** certified · **Generative AI for Developers**
 - 🤝 Love code reviews, architecture discussions and mentoring
 - 🌍 English — fluent · French — conversational (learning at INL)
-- 📫 Reach me at **annakaimlettu@gmail.com**
 
 > *Shipping quality, one sprint at a time.* 🚀
 
